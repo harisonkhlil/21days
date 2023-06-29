@@ -1,0 +1,1 @@
+add_executable(dynamic_cast_convert dynamic_cast._conv.cc)

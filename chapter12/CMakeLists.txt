@@ -1,0 +1,3 @@
+add_executable(operator_convert operator_convert.cc)
+add_executable(overload_equal overload_equal.cc)
+add_executable(temperature temperature.cc)

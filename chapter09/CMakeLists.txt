@@ -1,0 +1,4 @@
+add_executable(advanced_function advanced_function.cc)
+add_executable(class_example class_example.cc)
+add_executable(explicit_conver explicit_convert.cc)
+add_executable(signal_class signal_class.cc)

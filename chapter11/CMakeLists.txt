@@ -1,0 +1,5 @@
+add_executable(copy_construtor_virtual copy_construtor_virtual.cc)
+add_executable(multi_inheritance_virtual multi_inheritance_virtual.cc)
+add_executable(pointer_virtual_class pointer_virtual_class.cc)
+add_executable(shape shape.cc)
+add_executable(virtual_class virtual_class.cc)
