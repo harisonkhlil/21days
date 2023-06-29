@@ -1,2 +1,0 @@
-add_executable(cin_cout cin_cout.cpp)
-add_executable(function_return function_return.cpp)

@@ -1,2 +1,0 @@
-add_executable(protect_derve protect_derve.cc)
-add_executable(protect_inheritance protect_inheritance.cc)

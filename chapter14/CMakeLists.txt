@@ -1,6 +1,0 @@
-add_executable(define_convert define_convert.cc)
-add_executable(more_arguments_template more_arguments_template.cc)
-add_executable(static_template static_template.cc)
-add_executable(template_example template_example.cc)
-
-add_executable(chapter1406 test/06.cc)

@@ -1,5 +1,0 @@
-file(GLOB SOURCES *.cpp)
-foreach(SOURCES ${SOURCES})
-  get_filename_component(EXECUTABLE_NAME ${SOURCES} NAME_WE)
-  add_executable(${EXECUTABLE_NAME} ${SOURCES})
-endforeach()

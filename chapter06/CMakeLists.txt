@@ -1,5 +1,0 @@
-add_executable(fibonacci fibonacci.cc)
-add_executable(for_c11 for_c11.cc)
-add_executable(nesting_loop nesting_loop.cc)
-add_executable(switch switch.cc)
-add_executable(char_control char_control.cc)
