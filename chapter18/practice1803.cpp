@@ -4,7 +4,7 @@
 
 using namespace std;
 
-template <typename T> void DisplayElements(const T &container) {
+template <typename T> void DisplayContents(const T &container) {
   for (auto element = container.cbegin(); element != container.cend();
        ++element) {
     cout << *element << " ";
@@ -16,7 +16,7 @@ int main() {
   list<int> list{1, 2, 3, 4, 5};
 
   list.insert(list.begin(), vector.begin(), vector.end());
-  DisplayElements(list);
+  DisplayContents(list);
 
   return 0;
 }
